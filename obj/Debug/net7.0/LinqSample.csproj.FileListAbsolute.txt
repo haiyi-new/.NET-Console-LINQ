@@ -1,0 +1,15 @@
+D:\dotnet\LinqSample\bin\Debug\net7.0\LinqSample.exe
+D:\dotnet\LinqSample\bin\Debug\net7.0\LinqSample.deps.json
+D:\dotnet\LinqSample\bin\Debug\net7.0\LinqSample.runtimeconfig.json
+D:\dotnet\LinqSample\bin\Debug\net7.0\LinqSample.dll
+D:\dotnet\LinqSample\bin\Debug\net7.0\LinqSample.pdb
+D:\dotnet\LinqSample\obj\Debug\net7.0\LinqSample.csproj.AssemblyReference.cache
+D:\dotnet\LinqSample\obj\Debug\net7.0\LinqSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\LinqSample\obj\Debug\net7.0\LinqSample.AssemblyInfoInputs.cache
+D:\dotnet\LinqSample\obj\Debug\net7.0\LinqSample.AssemblyInfo.cs
+D:\dotnet\LinqSample\obj\Debug\net7.0\LinqSample.csproj.CoreCompileInputs.cache
+D:\dotnet\LinqSample\obj\Debug\net7.0\LinqSample.dll
+D:\dotnet\LinqSample\obj\Debug\net7.0\refint\LinqSample.dll
+D:\dotnet\LinqSample\obj\Debug\net7.0\LinqSample.pdb
+D:\dotnet\LinqSample\obj\Debug\net7.0\LinqSample.genruntimeconfig.cache
+D:\dotnet\LinqSample\obj\Debug\net7.0\ref\LinqSample.dll
